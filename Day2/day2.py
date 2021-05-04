@@ -45,5 +45,8 @@ type(name_len)  #int hence cannot  be added to string
 # Priority: PEMDAS : Parenthesis Exponent Multipliaction Division Addition Substraction
 # Multi & Div are eual priority, same for + & - , so in such case left to right execution will be followed
 
+#round() function : Round offs the number (to integer by default if round of digit number equal to zero)
+#round (8/3, 2) first argument is number to be rounded off and second argument is roundoff to how many places after decimal point
+
 
 
